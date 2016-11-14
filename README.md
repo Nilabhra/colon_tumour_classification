@@ -1,4 +1,5 @@
-# colon_tumour_classification
+## Colon Tumor Classification
+Predicting if colon tumors are malignant or not from tumor biopsy data.
 
 ## Requirements:
 - python 2.7.x
